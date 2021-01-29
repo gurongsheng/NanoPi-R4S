@@ -1,5 +1,7 @@
 # NanoPi R4S Firmware
 
+![Lean OpenWrt 1GB](https://github.com/gurongsheng/NanoPi-R4S/workflows/Lean%20OpenWrt%201GB/badge.svg?branch=main)
+
 ## Tips
 * Default Gateway: 192.168.2.1
 * Default Password: password
